@@ -4,11 +4,11 @@
 # Favorite food is
 candy and popcorn
 
-## favrit colrse 
+## favorite colors
 green and camo
 
-### favrit game 
+### favorite game 
 fortnite and mincraft
 
-#### favrite soda 
+#### favorite soda 
 izze and squirt
